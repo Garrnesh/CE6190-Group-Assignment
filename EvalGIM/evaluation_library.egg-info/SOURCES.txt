@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+evaluation_library/__init__.py
+evaluation_library/evaluate.py
+evaluation_library/evaluator.py
+evaluation_library/generate.py
+evaluation_library/launcher_with_accelerate.py
+evaluation_library/main.py
+evaluation_library.egg-info/PKG-INFO
+evaluation_library.egg-info/SOURCES.txt
+evaluation_library.egg-info/dependency_links.txt
+evaluation_library.egg-info/requires.txt
+evaluation_library.egg-info/top_level.txt
+tests/test_datasets.py
